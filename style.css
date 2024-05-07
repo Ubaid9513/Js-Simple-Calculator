@@ -1,0 +1,46 @@
+h1 {
+    margin-left: 35%;
+}
+.main {
+    width: 250px;
+    height: 170px;
+    border: 2px solid grey;
+    margin: 0 auto;
+    background-color: #000;
+}
+.result {
+    width: 95%;
+    height: 25px;
+    margin: 2px 0px 0px 2px;
+    background-color: grey;
+}
+.clearbtn {
+    width: 98%;
+    height: 23px;
+    margin: 2px 0px 0px 2px;
+    background-color: rgb(109, 104, 104);
+}
+.btn {
+    width: 55px;
+    height: 23px;
+    margin: 2px 0px 0px 3.5px;
+    background-color: grey;
+}
+.btnOpr {
+    width: 55px;
+    height: 23px;
+    margin: 2px 0px 0px 3.5px;
+    background-color: rgb(109, 104, 104);
+}
+.halfbtn1 {
+    width: 47%;
+    height: 25px;
+    margin: 2px 0px 0px 3.5px;
+    background-color: grey;
+}
+.halfbtn2 {
+    width: 47%;
+    height: 25px;
+    margin: 2px 0px 0px 3.5px;
+    background-color:  rgb(109, 104, 104);
+}
