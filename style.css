@@ -8,10 +8,10 @@ h1 {
     margin: 0 auto;
     background-color: #000;
 }
-.result {
-    width: 95%;
-    height: 25px;
-    margin: 2px 0px 0px 2px;
+#result {
+    width: 94%;
+    height: 30px;
+    margin: 2px 0px 2px 3px;
     background-color: grey;
 }
 .clearbtn {
